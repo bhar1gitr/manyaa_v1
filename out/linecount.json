@@ -1,0 +1,285 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Users\\bharat sharma\\OneDrive\\Desktop\\Manyaa-2",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2023-09-29 17:00:04",
+            "filesum": 44,
+            "codesum": 36229,
+            "commentsum": 74,
+            "blanksum": 145,
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "manyaa\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 31596,
+                    "comment": 0,
+                    "filename": "manyaa\\package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 47,
+                    "comment": 0,
+                    "filename": "manyaa\\package.json"
+                },
+                {
+                    "filename": "manyaa\\public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "manyaa\\public\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "manyaa\\public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "manyaa\\public\\robots.txt"
+                },
+                {
+                    "blank": 15,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "manyaa\\README.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 34,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\App.test.js"
+                },
+                {
+                    "filename": "manyaa\\src\\assets\\car.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "manyaa\\src\\assets\\EAadhaar_0000002320609520230910090845_1409202394613.pdf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\assets\\manyaa.svg"
+                },
+                {
+                    "filename": "manyaa\\src\\assets\\profile.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 146,
+                    "comment": 3,
+                    "filename": "manyaa\\src\\Components\\Card.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\Components\\PaymentSuccess.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 229,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\Components\\SideBar.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "manyaa\\src\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\logo.svg"
+                },
+                {
+                    "blank": 3,
+                    "code": 52,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\Assessment.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 50,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\BookAppointment.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 51,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\Communication.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\ContentAccess.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 92,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\pages\\User\\FindDoctors.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 86,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\pages\\User\\Home.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 51,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\Notifications.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\pages\\User\\Payment.js"
+                },
+                {
+                    "blank": 16,
+                    "code": 178,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\pages\\User\\Profile.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 25,
+                    "comment": 38,
+                    "filename": "manyaa\\src\\pages\\User\\RatingsReviews.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 201,
+                    "comment": 1,
+                    "filename": "manyaa\\src\\pages\\User\\Register.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\pages\\User\\Subscription.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "manyaa\\src\\reportWebVitals.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "manyaa\\src\\setupTests.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 3,
+                    "filename": "server\\app.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "server\\config\\config.env"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "server\\conn\\db.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 54,
+                    "comment": 10,
+                    "filename": "server\\controllers\\emailVerifyController.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "server\\controllers\\paymentController.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "server\\models\\otpSchema.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 2936,
+                    "comment": 0,
+                    "filename": "server\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "server\\package.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "server\\routes\\emailVerifyRoute.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "server\\routes\\paymentRoute.js"
+                }
+            ]
+        }
+    ]
+}

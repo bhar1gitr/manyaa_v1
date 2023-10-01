@@ -1,0 +1,56 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2023-09-29 17:00:04
+count workspace : c:\Users\bharat sharma\OneDrive\Desktop\Manyaa-2
+total files : 44
+total code lines : 36229
+total comment lines : 74
+total blank lines : 145
+
+manyaa\.gitignore, code is 18, comment is 1, blank is 5.
+manyaa\package-lock.json, code is 31596, comment is 0, blank is 2.
+manyaa\package.json, code is 47, comment is 0, blank is 3.
+manyaa\public\favicon.png, it is a binary file.
+manyaa\public\index.html, code is 21, comment is 0, blank is 1.
+manyaa\public\manifest.json, code is 25, comment is 0, blank is 0.
+manyaa\public\robots.txt, code is 3, comment is 1, blank is 0.
+manyaa\README.md, code is 21, comment is 4, blank is 15.
+manyaa\src\App.js, code is 34, comment is 0, blank is 2.
+manyaa\src\App.test.js, code is 7, comment is 0, blank is 1.
+manyaa\src\assets\car.jpeg, it is a binary file.
+manyaa\src\assets\EAadhaar_0000002320609520230910090845_1409202394613.pdf, it is a binary file.
+manyaa\src\assets\manyaa.svg, code is 9, comment is 0, blank is 0.
+manyaa\src\assets\profile.jpg, it is a binary file.
+manyaa\src\Components\Card.js, code is 146, comment is 3, blank is 6.
+manyaa\src\Components\PaymentSuccess.js, code is 20, comment is 0, blank is 2.
+manyaa\src\Components\SideBar.js, code is 229, comment is 0, blank is 12.
+manyaa\src\index.css, code is 8, comment is 0, blank is 1.
+manyaa\src\index.js, code is 13, comment is 3, blank is 2.
+manyaa\src\logo.svg, code is 1, comment is 0, blank is 0.
+manyaa\src\pages\User\Assessment.js, code is 52, comment is 1, blank is 3.
+manyaa\src\pages\User\BookAppointment.js, code is 50, comment is 1, blank is 5.
+manyaa\src\pages\User\Communication.js, code is 51, comment is 1, blank is 4.
+manyaa\src\pages\User\ContentAccess.js, code is 26, comment is 1, blank is 5.
+manyaa\src\pages\User\FindDoctors.js, code is 92, comment is 0, blank is 6.
+manyaa\src\pages\User\Home.js, code is 86, comment is 0, blank is 3.
+manyaa\src\pages\User\Notifications.js, code is 51, comment is 1, blank is 4.
+manyaa\src\pages\User\Payment.js, code is 74, comment is 0, blank is 6.
+manyaa\src\pages\User\Profile.js, code is 178, comment is 0, blank is 16.
+manyaa\src\pages\User\RatingsReviews.js, code is 25, comment is 38, blank is 5.
+manyaa\src\pages\User\Register.js, code is 201, comment is 1, blank is 7.
+manyaa\src\pages\User\Subscription.js, code is 26, comment is 0, blank is 3.
+manyaa\src\reportWebVitals.js, code is 12, comment is 0, blank is 1.
+manyaa\src\setupTests.js, code is 1, comment is 4, blank is 0.
+server\app.js, code is 15, comment is 3, blank is 4.
+server\config\config.env, code is 8, comment is 1, blank is 0.
+server\conn\db.js, code is 10, comment is 0, blank is 2.
+server\controllers\emailVerifyController.js, code is 54, comment is 10, blank is 5.
+server\controllers\paymentController.js, code is 40, comment is 0, blank is 5.
+server\models\otpSchema.js, code is 6, comment is 0, blank is 2.
+server\package-lock.json, code is 2936, comment is 0, blank is 2.
+server\package.json, code is 24, comment is 0, blank is 0.
+server\routes\emailVerifyRoute.js, code is 6, comment is 0, blank is 3.
+server\routes\paymentRoute.js, code is 7, comment is 0, blank is 2.
+===============================================================================
